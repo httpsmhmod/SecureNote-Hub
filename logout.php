@@ -29,5 +29,8 @@ session_destroy();
     
     <!-- Link to take the user back to the login page -->
     <a href="login.php">Log in again?</a>
+    <br><br>
+    <!-- Link to register a new account -->
+    <a href="register.php">Create a new account?</a>
 </body>
 </html>
